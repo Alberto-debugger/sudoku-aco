@@ -1,0 +1,10 @@
+# Artefactos de Python
+__pycache__/
+*.pyc
+
+# Artefactos de LaTeX (si compilas localmente)
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
