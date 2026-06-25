@@ -79,11 +79,7 @@ sudoku_aco/
 ├── comparacion.py      # 30 corridas ACO vs GA + genera las gráficas
 ├── experimentos.py     # Métricas y sensibilidad de parámetros
 ├── figuras/            # Gráficas generadas (convergencia, éxito, tiempos, parámetros)
-├── articulo.tex        # Artículo final en LaTeX (para Overleaf)
-├── README.md           # Este archivo
-├── GUIA_REVISION.md    # Explicación del algoritmo + preguntas/respuestas
-├── REPASO_FINAL.md     # Chuleta de repaso
-└── GUION_VIDEO.md      # Guion del video (3 integrantes)
+└── README.md           # Este archivo
 ```
 
 El archivo `sudoku_aco.py` está organizado en secciones numeradas:
