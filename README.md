@@ -13,9 +13,9 @@ Lloyd & Amos se usó solo como referencia conceptual.
 ---
 
 ## Requisitos
-
-- **Python 3.8 o superior** (probado en 3.13).
-- **Sin dependencias externas**: solo librería estándar (`random`, `time`, `argparse`).
+- **Python 3.8+** (probado en 3.13).
+- El solver `sudoku_aco.py` y `genetic_sudoku.py` **no** requieren dependencias externas.
+- Solo para generar las gráficas (`comparacion.py`): `matplotlib` y `numpy`:
 
 Comprueba tu versión:
 ```bash
